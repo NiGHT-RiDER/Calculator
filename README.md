@@ -8,9 +8,10 @@ A importer dans Android Studio et de la vous pourrez generer l'apk
 3. Commitez vos changements: `git commit -am 'Add some feature'`
 4. Push a la branche: `git push origin my-new-feature`
 5. Soumetez une pull request :D
-## History
+
 ## Credits
 Code fait par moi meme :)
+
 ## License
 MIT License
 
